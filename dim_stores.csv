@@ -1,0 +1,16 @@
+store_id,store_name,region,city,store_type,open_date,manager_name,headcount
+STR-01,Sydney CBD,NSW,Sydney,Large,2018-03-15,Sarah Chen,18
+STR-02,Sydney Parramatta,NSW,Parramatta,Medium,2019-06-01,James Wu,12
+STR-03,Sydney Bondi,NSW,Bondi,Small,2020-01-10,Priya Sharma,8
+STR-04,Sydney Chatswood,NSW,Chatswood,Medium,2019-11-20,Tom Nguyen,11
+STR-05,Sydney Penrith,NSW,Penrith,Small,2021-03-05,Lisa Park,7
+STR-06,Melbourne Central,VIC,Melbourne,Large,2017-08-22,David Kim,20
+STR-07,Melbourne Chadstone,VIC,Chadstone,Large,2018-05-14,Emma Taylor,19
+STR-08,Melbourne Doncaster,VIC,Doncaster,Medium,2020-07-01,Ryan Lee,13
+STR-09,Melbourne Geelong,VIC,Geelong,Small,2021-09-15,Anna Brown,9
+STR-10,Melbourne Ballarat,VIC,Ballarat,Small,2022-02-28,Chris Davis,7
+STR-11,Brisbane Fortitude Valley,QLD,Brisbane,Large,2018-11-10,Mia Wilson,16
+STR-12,Brisbane Carindale,QLD,Carindale,Medium,2019-04-18,Jake Martinez,12
+STR-13,Brisbane South Bank,QLD,Brisbane,Medium,2020-10-05,Sophie Anderson,11
+STR-14,Gold Coast Surfers,QLD,Gold Coast,Medium,2021-06-20,Liam Thompson,10
+STR-15,Sunshine Coast Maroochydore,QLD,Sunshine Coast,Small,2022-01-15,Chloe Robinson,8
